@@ -1,7 +1,4 @@
-﻿using Newtonsoft.Json;
-using System;
-using System.Collections.Generic;
-using System.IO;
+﻿using System;
 
 namespace FindWordInJson
 {
@@ -9,26 +6,10 @@ namespace FindWordInJson
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Введите имя файла для поиска");
-            //string fileName = Console.ReadLine()?.ToLower();
-
-            string fileName = "data.json";
-            string searchTerm = "novel";
-
-            if (!File.Exists(fileName))
-            {
-                Console.WriteLine("Файл не найден");
-                return;
-            }
-
-            var jsonData = File.ReadAllText(fileName);
-            var books = JsonConvert.DeserializeObject<List<Book>>(jsonData);
-
-            //Console.WriteLine("Введите слово для поиска (в заголовке или описании):");
-            //string searchTerm = Console.ReadLine()?.ToLower();
-
-            JsonSearch bookSearcher = new JsonSearch(books);
-            var searchResults = bookSearcher.Search(searchTerm);
+            JsonSearch jsonSearch = new JsonSearch();
+            string searchTerm = "test";
+            //string searchTerm = "novel";
+            var searchResults =  jsonSearch.Search(searchTerm);
 
             // Вывод результатов
             if (searchResults.Count <= 0)

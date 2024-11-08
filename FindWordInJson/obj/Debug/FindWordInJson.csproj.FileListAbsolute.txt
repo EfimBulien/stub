@@ -8,3 +8,13 @@ C:\Users\Efim\source\repos\FindWordInJson\FindWordInJson\obj\Debug\FindWordInJso
 C:\Users\Efim\source\repos\FindWordInJson\FindWordInJson\obj\Debug\FindWord.03DF1B06.Up2Date
 C:\Users\Efim\source\repos\FindWordInJson\FindWordInJson\obj\Debug\FindWordInJson.exe
 C:\Users\Efim\source\repos\FindWordInJson\FindWordInJson\obj\Debug\FindWordInJson.pdb
+C:\Users\macbookair\source\repos\stub\FindWordInJson\bin\Debug\FindWordInJson.exe.config
+C:\Users\macbookair\source\repos\stub\FindWordInJson\bin\Debug\FindWordInJson.exe
+C:\Users\macbookair\source\repos\stub\FindWordInJson\bin\Debug\FindWordInJson.pdb
+C:\Users\macbookair\source\repos\stub\FindWordInJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\macbookair\source\repos\stub\FindWordInJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\macbookair\source\repos\stub\FindWordInJson\obj\Debug\FindWordInJson.csproj.AssemblyReference.cache
+C:\Users\macbookair\source\repos\stub\FindWordInJson\obj\Debug\FindWordInJson.csproj.CoreCompileInputs.cache
+C:\Users\macbookair\source\repos\stub\FindWordInJson\obj\Debug\FindWord.03DF1B06.Up2Date
+C:\Users\macbookair\source\repos\stub\FindWordInJson\obj\Debug\FindWordInJson.exe
+C:\Users\macbookair\source\repos\stub\FindWordInJson\obj\Debug\FindWordInJson.pdb

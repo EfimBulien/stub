@@ -1,0 +1,38 @@
+﻿[
+    {
+        "Id": 1,
+        "Title": "War and Peace",
+        "Author": "Leo Tolstoy",
+        "Description": "An epic that covers the events of the Napoleonic Wars and their impact on Russian society."
+    },
+    {
+        "Id": 2,
+        "Title": "1984",
+        "Author": "George Orwell",
+        "Description": "A dystopian novel about a totalitarian society where the government controls all aspects of life."
+    },
+    {
+        "Id": 3,
+        "Title": "Harry Potter and the Philosopher's Stone",
+        "Author": "J.K. Rowling",
+        "Description": "The adventures of a young wizard, Harry Potter, at the Hogwarts School of Witchcraft and Wizardry."
+    },
+    {
+        "Id": 4,
+        "Title": "To Kill a Mockingbird",
+        "Author": "Harper Lee",
+        "Description": "A novel about racial prejudice and social justice in the southern United States."
+    },
+    {
+        "Id": 5,
+        "Title": "The Master and Margarita",
+        "Author": "Mikhail Bulgakov",
+        "Description": "A novel that intertwines stories of the devil, love, and life in the Soviet Union."
+    },
+    {
+        "Id": 6,
+        "Title": "Crime and Punishment",
+        "Author": "Fyodor Dostoevsky",
+        "Description": "A novel about moral dilemmas and the consequences of crime, exploring the nature of the human soul."
+    }
+]

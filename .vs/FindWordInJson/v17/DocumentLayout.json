@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\macbookair\\source\\repos\\stub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63243152-5E5F-4AD6-A14C-A94C03464D58}|FindWordInJson\\FindWordInJson.csproj|C:\\Users\\macbookair\\source\\repos\\stub\\findwordinjson\\testdataobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63243152-5E5F-4AD6-A14C-A94C03464D58}|FindWordInJson\\FindWordInJson.csproj|solutionrelative:findwordinjson\\testdataobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63243152-5E5F-4AD6-A14C-A94C03464D58}|FindWordInJson\\FindWordInJson.csproj|C:\\Users\\macbookair\\source\\repos\\stub\\findwordinjson\\jsonsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63243152-5E5F-4AD6-A14C-A94C03464D58}|FindWordInJson\\FindWordInJson.csproj|solutionrelative:findwordinjson\\jsonsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63243152-5E5F-4AD6-A14C-A94C03464D58}|FindWordInJson\\FindWordInJson.csproj|c:\\users\\macbookair\\source\\repos\\stub\\findwordinjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63243152-5E5F-4AD6-A14C-A94C03464D58}|FindWordInJson\\FindWordInJson.csproj|solutionrelative:findwordinjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49A1695-44BE-4ADB-878C-4A9C26108E93}|FindWordInJson.Tests\\FindWordInJson.Tests.csproj|C:\\Users\\macbookair\\source\\repos\\stub\\findwordinjson.tests\\jsonsearchtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49A1695-44BE-4ADB-878C-4A9C26108E93}|FindWordInJson.Tests\\FindWordInJson.Tests.csproj|solutionrelative:findwordinjson.tests\\jsonsearchtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63243152-5E5F-4AD6-A14C-A94C03464D58}|FindWordInJson\\FindWordInJson.csproj|C:\\Users\\macbookair\\source\\repos\\stub\\findwordinjson\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63243152-5E5F-4AD6-A14C-A94C03464D58}|FindWordInJson\\FindWordInJson.csproj|solutionrelative:findwordinjson\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\macbookair\\source\\repos\\stub\\FindWordInJson\\bin\\Debug\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FindWordInJson\\bin\\Debug\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\Users\\macbookair\\source\\repos\\stub\\FindWordInJson\\bin\\Debug\\data.json",
+              "RelativeDocumentMoniker": "FindWordInJson\\bin\\Debug\\data.json",
+              "ToolTip": "C:\\Users\\macbookair\\source\\repos\\stub\\FindWordInJson\\bin\\Debug\\data.json",
+              "RelativeToolTip": "FindWordInJson\\bin\\Debug\\data.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T16:47:25.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonSearchTests.cs",
+              "DocumentMoniker": "C:\\Users\\macbookair\\source\\repos\\stub\\FindWordInJson.Tests\\JsonSearchTests.cs",
+              "RelativeDocumentMoniker": "FindWordInJson.Tests\\JsonSearchTests.cs",
+              "ToolTip": "C:\\Users\\macbookair\\source\\repos\\stub\\FindWordInJson.Tests\\JsonSearchTests.cs",
+              "RelativeToolTip": "FindWordInJson.Tests\\JsonSearchTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:23:01.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestDataObject.cs",
+              "DocumentMoniker": "C:\\Users\\macbookair\\source\\repos\\stub\\FindWordInJson\\TestDataObject.cs",
+              "RelativeDocumentMoniker": "FindWordInJson\\TestDataObject.cs",
+              "ToolTip": "C:\\Users\\macbookair\\source\\repos\\stub\\FindWordInJson\\TestDataObject.cs",
+              "RelativeToolTip": "FindWordInJson\\TestDataObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEAlwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:22:43.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\macbookair\\source\\repos\\stub\\FindWordInJson\\Program.cs",
+              "RelativeDocumentMoniker": "FindWordInJson\\Program.cs",
+              "ToolTip": "C:\\Users\\macbookair\\source\\repos\\stub\\FindWordInJson\\Program.cs",
+              "RelativeToolTip": "FindWordInJson\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:22:37.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonSearch.cs",
+              "DocumentMoniker": "C:\\Users\\macbookair\\source\\repos\\stub\\FindWordInJson\\JsonSearch.cs",
+              "RelativeDocumentMoniker": "FindWordInJson\\JsonSearch.cs",
+              "ToolTip": "C:\\Users\\macbookair\\source\\repos\\stub\\FindWordInJson\\JsonSearch.cs",
+              "RelativeToolTip": "FindWordInJson\\JsonSearch.cs",
+              "ViewState": "AgIAAAMAAACAmZmZmZkewBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:21:54.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\macbookair\\source\\repos\\stub\\FindWordInJson\\Book.cs",
+              "RelativeDocumentMoniker": "FindWordInJson\\Book.cs",
+              "ToolTip": "C:\\Users\\macbookair\\source\\repos\\stub\\FindWordInJson\\Book.cs",
+              "RelativeToolTip": "FindWordInJson\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:21:49.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
